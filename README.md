@@ -1,5 +1,5 @@
 ### `Demo`
-Open [https://mystifying-curran-dde00c.netlify.com](https://mystifying-curran-dde00c.netlify.com)
+Open [https://lector-feed-app.netlify.com/](https://lector-feed-app.netlify.com/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

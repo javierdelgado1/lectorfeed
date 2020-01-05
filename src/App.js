@@ -26,7 +26,7 @@ class App extends Component {
     return (
       <Fragment>
         <Header 
-          titulo="Noticias react api"
+          titulo="Lector de Noticias"
           ></Header>
           <div className = "container white contenedor-noticias"> 
             <Formulario 
